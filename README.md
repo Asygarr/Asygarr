@@ -50,12 +50,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
+</div align="center">
+  <img align="right" height="150" src="https://media1.tenor.com/m/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
 
-###
-
-<div align="left">
+  <div align="left">
     <img src="https://raw.githubusercontent.com/asygarr/stats/master/profile-summary-card-output/radical/0-profile-details.svg" width="570" alt="profile-details graph"  /> 
+  </div>
 </div>
 
 ###
