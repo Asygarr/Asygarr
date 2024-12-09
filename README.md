@@ -52,10 +52,10 @@
 ###
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./image/bocchi.gif" alt="Right Aligned Image" height="150" style="order: 2;" />
   <div style="order: 1;">
     <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="480" alt="Profile Details Graph" />
   </div>
+  <img src="./image/bocchi.gif" alt="Right Aligned Image" height="150" style="order: 2;" />
 </div>
 
 ###
