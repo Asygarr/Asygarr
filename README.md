@@ -53,8 +53,8 @@
 
 <div align="center">
   <img align="right" src="./image/bocchi.gif" alt="Right Aligned Image" height="150" />
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="520" alt="Profile Details Graph" />
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="550" alt="Profile Details Graph" />
   </div>
 </div>
 
