@@ -51,11 +51,10 @@
 
 ###
 
-</div align="center">
-  <img align="right" height="150" src="https://media1.tenor.com/m/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
-
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="570" alt="profile-details graph"  /> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./image/bocchi.gif" alt="Right Aligned Image" height="150" style="order: 2;" />
+  <div style="order: 1;">
+    <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="570" alt="Profile Details Graph" />
   </div>
 </div>
 
@@ -90,7 +89,3 @@
 [![](https://visitcount.itsvg.in/api?id=Asygarr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
-
-
-
-
