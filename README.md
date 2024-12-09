@@ -54,7 +54,7 @@
 <div align="center">
   <img align="right" src="./image/bocchi.gif" alt="Right Aligned Image" height="150" />
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="540" alt="Profile Details Graph" />
+    <img src="https://raw.githubusercontent.com/Asygarr/stats/master/profile-summary-card-output/dracula/0-profile-details.svg" width="530" alt="Profile Details Graph" />
   </div>
 </div>
 
