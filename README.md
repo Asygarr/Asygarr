@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Asygar!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Software+Engineer;Tech+Enthusiast;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=9A9FDF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Always+Learning!;Malas+Ngoding...&font=Fira%20Code&center=true&width=440&height=45&color=9A9FDF&vCenter=true&size=22">
 </div>
 
 ### 🌐 Connect with me
@@ -56,11 +56,7 @@
 ### 📊 Data Science & Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow" alt="Data Science Technologies" />
 </div>
 
 ### 🔧 Tools & Others
