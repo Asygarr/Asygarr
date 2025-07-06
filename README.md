@@ -1,4 +1,14 @@
-<div align="left">
+<div align="center">
+  
+# 👋 Hello, I'm Asygar!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Software+Engineer;Tech+Enthusiast;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=9A9FDF&vCenter=true&size=22">
+</div>
+
+### 🌐 Connect with me
+
+<div align="center">
   <a href="https://www.instagram.com/sy.garr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -13,41 +23,57 @@
   </a>
 </div>
 
-###
+<br>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="Programming Languages" />
 </div>
+
+### 🌐 Frontend Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend Technologies" />
+</div>
+
+### ⚙️ Backend Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Backend Technologies" />
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="Databases" />
+</div>
+
+### 📊 Data Science & Analytics
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo" />
+</div>
+
+### 🔧 Tools & Others
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Statistics</div>
 
 ###
 
@@ -74,7 +100,7 @@
 
 ###
 
-</div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asygarr&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
