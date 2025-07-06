@@ -1,9 +1,5 @@
 <div align="center">
-  
-# 👋 Hello, I'm Asygar!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Always+Learning!;Malas+Ngoding...&font=Fira%20Code&center=true&width=440&height=45&color=9A9FDF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Always+Learning!;Malas+Ngoding&font=Fira%20Code&center=true&width=440&height=45&color=9A9FDF&vCenter=true&size=22">
 </div>
 
 ### 🌐 Connect with me
